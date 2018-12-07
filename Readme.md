@@ -5,6 +5,7 @@
   -firestore database
   -cloud functions for server CRUD
 - vuex
+- Image loading optimization
 
 ## Structure
   > Coming Soon 
